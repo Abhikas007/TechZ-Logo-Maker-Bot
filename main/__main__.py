@@ -18,8 +18,8 @@ HELP = """
 **To Make Square Logo - ** `/logosq Your Name`
 
 **♻️ Example:** 
-`/logo TechZBots`
-`/logosq TechZBots`
+`/logo AXL`
+`/logosq AxL`
 """
 
 # Commands
